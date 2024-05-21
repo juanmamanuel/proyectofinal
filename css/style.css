@@ -1,6 +1,6 @@
 h1 {
     color: rgb(239, 236, 241);
-    border-radius: 20px;
+    border-radius: 25px;
     background-color: red;
     text-align: center;
     font-family: fuente-titulo;
@@ -15,14 +15,6 @@ h2{
   color: #d12424;
   text-align: center;
 }
-
-.text-center, .main-index h1 {
-    text-align: center;
-    padding: 10px; }
-
-.bordes-redondedeados {
-    border-radius: 5px;
-  }
   
 .grid-descripcion {
     width: 450px;
@@ -54,26 +46,11 @@ h2{
     font-family: sans-serif;
 }
 
-.header{
+.header-contacto{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background-color: rgb(141, 136, 136);
+  background-color: rgb(240, 38, 38);
   border-radius: 20px;
 
-}
-
-.btn-twitter {
-  border-radius: 20px;
-  background-color: #d12424;
-}
-
-.btn-facebook {
-  border-radius: 20px;
-  background-color: #a72302;
-}
-
-.btn-gmail {
-  border-radius: 20px;
-  background-color: #c5511b;
 }
