@@ -1,6 +1,6 @@
 h1 {
     color: rgb(239, 236, 241);
-    border-radius: 25px;
+    border-radius: 15px;
     background-color: red;
     text-align: center;
     font-family: fuente-titulo;
@@ -12,7 +12,7 @@ h1 {
   }
 
 h2{
-  color: #d12424;
+  color: #000000;
   text-align: center;
 }
 
@@ -22,12 +22,7 @@ h2{
     border-radius: 15px;
     border: 20px;
   }
-  
-.grid img {
-    width: 100px;
-    border: 10px;
-    border-color: rgb(196, 18, 18);
-  }
+
   
 .grid-conteiner {
     display: grid;
@@ -36,21 +31,29 @@ h2{
   }
 
 .flex-container{
+    display: flex;
+    justify-content: center;
     border: 10px;
     color: white;
     width: auto;
     padding: 5px 10px;
     margin: 15px;
     border-radius: 15px;
-    background-color: rgb(160, 0, 0);
+    background-color: rgb(10, 10, 10);
     font-family: sans-serif;
 }
 
 .header-contacto{
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  background-color: rgb(190, 164, 115);
-  border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
 
+.row{
+    color: rgb(2, 1, 1);
+    background-color:red;
+    border-radius: 10px;
 }
