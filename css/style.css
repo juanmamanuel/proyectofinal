@@ -15,7 +15,7 @@ h2{
   color: #d12424;
   text-align: center;
 }
-  
+
 .grid-descripcion {
     width: 450px;
     color: black;
@@ -26,7 +26,7 @@ h2{
 .grid img {
     width: 100px;
     border: 10px;
-    border-color: rgb(223, 12, 12);
+    border-color: rgb(196, 18, 18);
   }
   
 .grid-conteiner {
@@ -50,7 +50,7 @@ h2{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background-color: rgb(240, 38, 38);
+  background-color: rgb(190, 164, 115);
   border-radius: 20px;
 
 }
