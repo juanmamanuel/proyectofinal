@@ -16,6 +16,13 @@ h2{
   text-align: center;
 }
 
+.display-grid{
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
 .grid-descripcion {
     width: 450px;
     color: black;
