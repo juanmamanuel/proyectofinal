@@ -1,7 +1,6 @@
 h1{
-    color: rgb(239, 236, 241);
-    border-radius: 35px;
-    background-color: red;
+    color: rgb(197, 7, 7);
+    border-radius: 0px;
     text-align: center;
     font-family: fuente-titulo;
     font-size: 60px;
@@ -12,13 +11,16 @@ h1{
   }
 
 h2{
+  border-radius: 10px;
+  background-color: red;
   color:  black;
   text-align: center;
 }
 
 .display-grid{
-    color: black;
-    border-radius: 5px;
+  background-color: red;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
     padding: 10px;
     margin: 10px;
 }
@@ -26,12 +28,12 @@ h2{
 .grid-biografia {
     width: 450px;
     color: black;
-    border-radius: 15px;
+    border-radius: 10px;
     border: 20px;
   }
 
   
-.grid-conteiner {
+.grid-container {
     display: grid;
     overflow: hidden;
     border-radius: 15px;
@@ -45,8 +47,7 @@ h2{
     width: auto;
     padding: 5px 10px;
     margin: 15px;
-    border-radius: 15px;
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(247, 247, 247);
     font-family: sans-serif;
 }
 
