@@ -8,6 +8,7 @@ h1{
     margin: 10px;
     top: 0;
     width: 100%;
+    box-sizing: 20px;
   }
 
 h2{
